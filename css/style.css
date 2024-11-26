@@ -53,3 +53,58 @@
     display: flex;
     margin-top: 140px;
 }
+
+.t3 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.t4 {
+    color: #010101;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.t5 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.container {
+    display: flex;
+    justify-content: left;
+    margin-left: 110px;
+    flex-direction: column;
+    margin-top: 100px;
+    gap: 20px;
+}
+
+.container1 {
+    width: 924px;
+    height: 680px;
+    background-color: red;
+    margin-right: 110px;
+    margin-top: 100px;
+}
+
+.p1 {
+    margin-right: 29px;
+}
+
+.c1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
